@@ -1,4 +1,4 @@
-package person
+package practice1.person
 
 case class Person(name: String, age: Int, children: List[Person] = Nil) {
 
